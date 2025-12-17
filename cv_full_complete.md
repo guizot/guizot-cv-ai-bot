@@ -1,0 +1,466 @@
+# Rinaldi Guizot - Complete CV
+
+## About
+Software Engineer focused on building mobile applications for Native Android and Hybrid Application using Kotlin, Java, Flutter, React Native and ReactJS. Also skilled in UI / UX Design using Figma, Adobe Illustrator & Adobe Photoshop. Bachelor of Computer Science majoring in Mobile Application and Technology from Bina Nusantara University.
+
+---
+
+## Career
+
+### Mobile Software Developer
+**PT Autentika Digital Indonesia**
+- **Duration:** April 2023 - May 2025
+- **Location:** SCBD, South Jakarta
+
+As a Mobile Software Developer at PT. Autentika Digital Indonesia, I build secure digital identification systems. The company itself specializes in PKI-based technologies, offering solutions such as digital document signing, 2FA, and a full Certification Authority system. I contributed to projects aimed at enhancing national-level ID verification and enterprise-grade certificate management.
+
+**Key Responsibilities:**
+- Developed cross-platform OCR and Face Recognition applications using Flutter and Google ML Kit.
+- Integrated machine learning models using TensorFlow Lite for offline document recognition and facial similarity checks.
+- Collaborated with the backend team to ensure secure data exchange using PKI encryption.
+- Built and maintained a web dashboard using ReactJS for Certificate Authority lifecycle management.
+
+**Tech Stack:** Flutter, Dart, Google ML Kit, TensorFlow Lite, ReactJS, REST API, GitLab, Figma, PKI
+
+---
+
+### Android Engineer
+**PT Medika Komunika Teknologi (KlikDokter)**
+- **Duration:** March 2022 - March 2023
+- **Location:** BSD, South Tangerang
+
+As an Android Mobile Engineer at KlikDokter, part of Kalbe Farma Group, I worked on modernizing and scaling Indonesia's leading health-tech platform. I was involved in the development of several mobile apps for patients, doctors, and pharmacies, enabling features such as virtual consultations, medical scheduling, and e-pharmacies.
+
+**Key Responsibilities:**
+- Developed core features in KlikDokter's Android app using Kotlin and Jetpack Libraries.
+- Built and maintained features like online consultations, medicine delivery, and appointment bookings.
+- Developed internal medical applications such as KlikMedis for doctors and Moshealth for pharmacies.
+- Followed MVVM architecture with Hilt for dependency injection and Coroutines for asynchronous operations.
+- Coordinated with UI/UX designers, QA engineers, and product managers.
+
+**Tech Stack:** Kotlin, Java, Android SDK, Jetpack (Navigation, LiveData, ViewModel), Hilt, Retrofit, Coroutines, Firebase, Jira, GitLab
+
+---
+
+### Android Developer
+**Elabram Systems**
+- **Duration:** March 2019 - February 2022
+- **Location:** Thamrin, Central Jakarta
+
+At Elabram Systems, I worked as an Android Developer responsible for building HR and recruitment applications across Southeast Asia. I worked on several end-to-end products including internal workforce systems and public-facing job platforms. The systems supported Elabram's broader mission to improve talent management and outsourcing in the region.
+
+**Key Responsibilities:**
+- Developed and maintained mobile applications such as Axdif (task and workforce management) and Xremo (job portal for Malaysia).
+- Designed UI workflows and implemented business logic in both Kotlin and Java.
+- Managed version control and CI pipelines with Bitbucket and Git.
+- Implemented notification and chat modules, attendance tracking, and role-based access systems.
+- Collaborated closely with backend developers to integrate RESTful APIs and optimize performance.
+
+**Tech Stack:** Kotlin, Java, MVP/MVVM, Retrofit, Firebase, Bitbucket, Android Studio, Jira, REST API
+
+---
+
+### Software Developer
+**PT Indodev Niaga Internet (DataOn)**
+- **Duration:** May 2017 - March 2019
+- **Location:** Bintaro, South Tangerang
+
+As a Fullstack Software Developer at DataOn, I contributed to the development of GreatDay HR (formerly SunfishGo), a mobile HRIS solution used by enterprises across Asia. The platform enables employees to manage leave, attendance, and payroll from their mobile devices.
+
+**Key Responsibilities:**
+- Developed hybrid mobile apps for Android and iOS using Ionic Framework and AngularJS.
+- Built backend services and RESTful APIs using Node.js to support core HRIS functionalities.
+- Created modules for leave requests, attendance logging, and approval workflows.
+- Maintained Git-based version control and coordinated deployments with CI tools.
+
+**Tech Stack:** Ionic, AngularJS, Node.js, HTML/CSS, JavaScript, REST API, GitLab, Visual Studio Code
+
+---
+
+## Education
+
+### Bina Nusantara University
+**Bachelor of Computer Science – Mobile Application and Technology**
+- **Duration:** 2013 - 2017
+- **GPA:** 3.54
+
+During my time at BINUS University, I specialized in Mobile Application and Technology, where I gained hands-on experience in developing applications across multiple platforms including Android, iOS, and legacy systems such as Blackberry and Java Symbian. I also built a strong foundation in web development using HTML, CSS, JavaScript, and PHP. Beyond technical skills, the program emphasized personal development and entrepreneurship, helping me grow both professionally and personally.
+
+**Activities and Societies:**
+- Committee Member – Binus Student Learning Community (BSLC), Kemanggisan Campus: A peer-learning community focused on sharing both hard and soft skills.
+- Buddy Coordinator (2 consecutive years): Responsible for welcoming and mentoring new students (Buddies), helping them transition into campus life and understand the BINUS University culture.
+
+### Santa Maria Cirebon
+**Science (IPA)**
+- **Duration:** 2010 - 2013
+
+At Santa Maria High School, I pursued the Science (IPA) track, where I developed a strong foundation in core scientific subjects including Physics, Chemistry, Biology, and Mathematics. The rigorous curriculum helped me build critical thinking, problem-solving, and analytical skills early on.
+
+---
+
+## Career Projects
+
+### UnoDemo
+**AI-powered KYC & Identity Validation App**
+- **Organization:** PT Autentika Digital Indonesia
+
+UnoDemo is a Flutter-based mobile demo app developed to showcase AI-powered identity verification technologies. Designed primarily for enterprise and client demo purposes, the app integrates multiple on-device machine learning models for real-time KYC processes using TFLite and advanced NFC-based data extraction.
+
+**My Contributions:**
+- Engineered real-time Face Recognition and OCR using on-device TFLite models for secure and fast identity validation.
+- Built and integrated SIM Hologram Matching model for detecting hologram patterns on physical ID cards.
+- Integrated Passport Reader SDK with NFC to read data from ICAO-compliant ePassports.
+- Developed the entire UI/UX in Flutter, optimizing for cross-platform demo deployment.
+
+**Key Features:** KYC Face Recognition (Liveness Detection Ready), OCR for ID card data extraction, Hologram validation via AI, NFC-based ePassport reader (MRZ + chip read)
+
+**Tech Stack:** Flutter, TFLite, Dart, NFC SDK, Custom AI Models, REST API, VS Code, GitHub
+
+---
+
+### UnoDigSig
+**Secure Digital Signature Demo App**
+- **Organization:** PT Autentika Digital Indonesia
+
+UnoDigSig is a Flutter-based mobile demo app that showcases the implementation of Public Key Infrastructure (PKI) for secure digital signatures and encryption. Built to demonstrate secure data workflows, the app simulates digital signing processes relevant to official enforcement and governmental systems like Digital Korlantas.
+
+**My Contributions:**
+- Integrated PKI library for digital signing, encryption, and decryption of sensitive user data.
+- Managed full data security lifecycle: key generation, certificate validation, secure transmission using APIs.
+- Supported client implementations by extending logic for Digital Korlantas Enforcer App, aligned with local regulatory needs.
+
+**Key Features:** Digital Signature via PKI (Private/Public Key flow), Document encryption/decryption using asymmetric keys, Signature verification via secure server & offline modes, Modular PKI integration to external apps
+
+**Tech Stack:** Flutter, Dart, PKI SDK, REST API, AES/RSA, Secure Storage, Git, Bitbucket
+
+---
+
+### mDL Reader
+**Mobile Driver's License (mDL) ISO Reader**
+- **Organization:** PT Autentika Digital Indonesia
+
+mDL Reader is a Flutter-based mobile application designed to read and parse ISO-standard mobile Driver's Licenses (mDL) securely. Built to comply with international specifications, the app supports structured data parsing using CBOR, handles encrypted payloads with cryptographic techniques, and enables real-time consent handling via WebSocket.
+
+**My Contributions:**
+- Implemented full support for ISO 18013-5 standard mobile driver's license data reading.
+- Utilized CBOR (Concise Binary Object Representation) for decoding structured license data.
+- Applied encryption and decryption mechanisms to ensure data integrity and privacy.
+- Integrated WebSocket communication to observe real-time user consent approval flow.
+- Designed modular Flutter UI/UX for easy data preview, scanning, and enterprise deployment.
+
+**Key Features:** Secure scanning and reading of digital driver licenses (mDL), CBOR-based data decoding, Encrypted payload handling and key-based decryption, WebSocket integration for real-time consent observation and response
+
+**Tech Stack:** Flutter, Dart, WebSocket, CBOR, ISO 18013-5, Cryptography Libraries, Secure Key Store, REST API, VS Code, Git
+
+---
+
+### GreatDay HR
+**Employee HRIS & Attendance Platform**
+- **Organization:** PT Indodev Niaga Internet
+
+GreatDay (formerly SunfishGo) is a cloud-based HRIS app used globally by enterprises. It seamlessly handles leave, attendance, payroll, shift schedules, claims, and employee attendance for both mobile and web.
+
+**My Contributions:**
+- Built and maintained cross-platform (Android + iOS) mobile modules using Ionic Framework.
+- Integrated AngularJS UI with Node.js backend APIs.
+- Ensured performance, polished UI, and offline resilience.
+
+**Key Features:** Leave & Attendance, Overtime, Claims & Reimbursements, Payroll, Shift & Schedule Management
+
+**Tech Stack:** Ionic Framework, AngularJS, Node.js (Express), RESTful APIs, GitLab, SourceTree, VS Code
+
+---
+
+### Axdif
+**Task & Workforce Management App**
+- **Organization:** Elabram Systems
+
+Axdif is an enterprise app that consolidates task boards, HRIS features, attendance tracking, business travel, and more into a unified mobile solution.
+
+**My Contributions:**
+- Led Android features like task assignment, time tracking, approval workflows, and employee chat.
+- Designed and implemented HR and attendance modules using MVP and Retrofit.
+
+**Key Features:** Task Management (boards, workflows), Real-time Chat & Notifications, Mobile Attendance & Exceptions, Leave, Overtime, Reimbursements, Business Trip & Advance, Contract Management, Reports, Announcements, Document Repository, Approval Flows
+
+**Tech Stack:** Java & Kotlin, MVP pattern, Retrofit for API, SourceTree + Bitbucket, Android Studio
+
+---
+
+### Xremo
+**Job Search App for Malaysia**
+- **Organization:** Elabram Systems
+
+Xremo is a job portal tailored to the Malaysian market, offering job listings, candidate profiles, and access to local recruiters via Android app.
+
+**My Contributions:**
+- Engineered job discovery, application submission, and user profile modules.
+- Improved app architecture by adopting MVVM, enabling clean separation of UI and data logic.
+
+**Key Features:** Real-time job listings, search filters, and candidate matching, Resume & career dashboard, Job application, saved jobs, and interview scheduling
+
+**Tech Stack:** Kotlin, Java, MVVM architecture, Retrofit, LiveData, ViewModel, Cloud backend integration, Bitbucket, Android Studio
+
+---
+
+### KlikDokter
+**Healthy Solutions App**
+- **Organization:** PT Medika Komunika Teknologi (Kalbe Group)
+
+KlikDokter is Indonesia's go-to digital health platform, offering services like doctor consultations, appointments, health articles, and an in-app e-pharmacy.
+
+**My Contributions:**
+- Developed scalable Android modules using Kotlin, leveraging MVVM, Hilt, and Coroutines.
+- Integrated REST APIs via Retrofit for consultation, appointment, and prescription flows.
+- Collaborated with product and UI teams using Jira and Figma for feature planning and design.
+
+**Key Features:** Online doctor consultations, appointment booking, online drugstore, Integrated health tools (BMI calculator, fertility planner, etc.), World-class resource center with health articles and tools
+
+**Tech Stack:** Android Studio, Kotlin, MVVM + Hilt + Jetpack, Coroutines, Retrofit, Mattermost, GitLab
+
+---
+
+### HalloBumil
+**Pregnancy & Parenting Companion App**
+- **Organization:** PT Medika Komunika Teknologi (Kalbe Group)
+
+HalloBumil is Indonesia's first interactive maternal health app, guiding moms through pre-pregnancy planning, pregnancy tracking, and postnatal development.
+
+**My Contributions:**
+- Led Android development for calendar, chat-based pregnancy tracker, and expert Q&A modules.
+- Added photo album, milestone tracking, and in-app article access.
+
+**Key Features:** Fertility calendar & conception guidance, Timeline-style pregnancy tracker & daily dialog, Growth monitoring post-birth, expert chat, photo album, parenting tips
+
+**Tech Stack:** Kotlin, MVVM architecture, Jetpack libraries, Hilt, Retrofit, Android Studio
+
+---
+
+### Moshealth
+**Digital Pharmacy App**
+- **Organization:** PT Medika Komunika Teknologi (Kalbe Group)
+
+MOSHealth is an end-to-end pharmacy app that enables users to order prescription and OTC medication from nearby licensed pharmacies, with optional home delivery and real-time status tracking.
+
+**My Contributions:**
+- Built critical modules around prescription upload, pharmacy selection, and order tracking.
+- Implemented secure scanning and image adjustment for prescription capture and automated OCR validation.
+
+**Key Features:** Pharmacy locator with 1,000+ licensed pharmacies across Indonesia, Prescription upload & validation with verified delivery, Access to vitamins, medical devices, and medicine promos
+
+**Tech Stack:** Kotlin, Retrofit, REST API, AndroidX, Firebase Storage, Kotlin Coroutines, Android Studio
+
+---
+
+### KlikMedis
+**Doctor/Clinic RME Solution**
+- **Organization:** PT Medika Komunika Teknologi (Kalbe Group)
+
+KlikMedis is a professional-grade Electronic Medical Records (EMR/RME) platform used by clinics and doctors in Indonesia. It integrates with government health systems (SATU SEHAT, BPJS) and supports appointment scheduling.
+
+**My Contributions:**
+- Built mobile modules allowing doctors to manage patient data, appointments, and conduct teleconsultations.
+- Integrated SATU SEHAT and BPJS APIs for secure government-linked data exchange.
+
+**Key Features:** Secure digital records: anamnesis, diagnosis, prescription, Appointment and queue scheduling with auto reminders, Payment processing, document signing, and compliance with Ministry of Health regulations
+
+**Tech Stack:** Kotlin, MVVM, Wi-Fi sync & REST API integration, Firebase, GitLab, Android Studio
+
+---
+
+## Personal Projects
+
+### Flyt - Trip Planner App
+**Flutter • Hive (local DB) • Clean Architecture • UI Simplicity • Dark/Light Theme**
+
+An all-in-one trip planning solution to simplify itinerary organization.
+
+**Key Features:**
+- Add and manage trips, itineraries, and bookings
+- Save travel documents, locations, and map paths
+- Add travelers and packing/phrase lists for group travel
+
+### Monty - Budget Planner App
+**Flutter • Hive (local DB) • Clean Architecture • UI Simplicity • Dark/Light Theme**
+
+A simple, effective budgeting app tailored to track grouped monthly income and expenses.
+
+**Key Features:**
+- Create monthly groups (e.g., Household, Freelance, Business)
+- Add income and multiple budgeted expense categories
+- Track personal or shared finances offline
+
+### We Ready - Event Planner App
+**Flutter • Hive (local DB) • Clean Architecture • UI Simplicity • Dark/Light Theme**
+
+A lightweight, offline-first event management application for individuals or event organizers.
+
+**Key Features:**
+- Plan events with structured details
+- Manage vendors and payment tracking
+- Monitor invitations
+- Set detailed event rundown/timeline
+
+### Respy - Recipe Saver App
+**Flutter • Hive (local DB) • Clean Architecture • UI Simplicity • Dark/Light Theme**
+
+Designed to organize and save favorite recipes with ease.
+
+**Key Features:**
+- Add, update, and delete recipes with ingredients and instructions
+- Import recipes directly from Cookpad URLs
+- Offline-accessible and elegantly designed for daily use
+
+### Clean Architecture Projects
+**Multi-Framework Implementation**
+
+A series of starter and feature-rich projects using different frameworks and clean architecture implementations.
+
+### Framer Portfolio Website & GitHub Projects
+
+A live interactive website built using Framer, plus learning projects on GitHub including rupiah-calculator, golang-gin APIs, and full-stack applications.
+
+---
+
+## Design Projects
+
+### Mobile UI/UX Design Projects
+**Figma - Mobile-first Design - Interactive Prototypes**
+
+Showcasing modern mobile interface designs using Figma, created to explore user-centric layouts, usability principles, and visual aesthetics.
+
+**View portfolio on Dribbble:** https://dribbble.com/guizot (Login required)
+
+**Focus Areas:**
+- Minimalist and accessible UI
+- Component reuse and responsive layout
+- Design for onboarding, dashboards, social feeds
+
+### Illustration & Visual Design Portfolio
+**Photoshop - Illustrator - Graphic Illustration**
+
+Created a diverse collection of digital illustrations, icons, and concept visuals.
+
+**View portfolio on Behance:** https://www.behance.net/guizot
+
+**Focus Areas:**
+- Brand illustrations and assets
+- Character and lifestyle visuals
+- Stylized icons and explainer graphics
+
+---
+
+## Skills
+
+### Mobile Development
+Android, Kotlin, Java, Flutter, Dart, React Native
+
+### Frontend
+ReactJS, JavaScript, HTML, CSS
+
+### Backend
+MySQL, NoSQL, NodeJS
+
+### UI / UX Design
+Figma, Illustrator, Photoshop
+
+### Software Tools
+Android Studio, VSCode, Cursor, Framer
+
+### Version Control
+Bitbucket, Gitlab, Github
+
+### AI & ML
+ChatGPT, Claude, Deepseek, Gemini, Perplexity, Meta AI, Grok AI, Groq, Copilot, MCP, TensorFlow
+
+---
+
+## Achievements
+
+### Hack Of Thrones (Hackathon)
+**Binar Academy** | February 2019
+
+Participated in the Hack Of Thrones Hackathon organized by Binar Academy. Collaborated with a team of three to design and develop a franchise-based e-commerce application within a limited timeframe. The experience sharpened my skills in teamwork, rapid prototyping, and problem-solving under pressure.
+
+### Team of the Semester
+**PT. Indodev Niaga Internet** | December 2017
+
+Awarded Team of the Semester for the second half of 2017 after receiving the highest number of votes among three nominated teams. Together with my two teammates, we contributed to the development of key modules for the Sunfish Go application, including Leave, Overtime, Attendance, and Careers. Our team's collaboration, consistency, and impact on product delivery were recognized across the company.
+
+---
+
+## Personal Journey
+
+### 1994: Born in the Calm Before the Code
+In late 1994, I was born in Cirebon, a peaceful coastal city in West Java, Indonesia, where tradition and simplicity defined daily life. Raised in a Chinese-Indonesian household, I grew up surrounded by the warmth of family, the discipline of heritage, and the quiet encouragement to be curious. Before I knew what programming was, I was already taking apart gadgets to see how they worked.
+
+### 2000 - 2013: Shaped by Books, Values, and Early Curiosity
+My formative years were spent at Santa Maria Cirebon, a school that helped lay the foundation for my academic and personal journey. I gravitated towards math and science—fields that taught me to analyze, think logically, and solve problems. These were the years I first interacted with computers—not just as tools for play, but as portals for creativity and invention.
+
+### 2013 - 2017: The City, the Code, and the Birth of a Dream
+I moved to Jakarta to attend Binus University. I majored in Computer Science, specializing in Mobile Application and Technology. During these years, I spent countless hours learning how to build apps from the ground up, experimenting with new tools, and slowly discovering what kind of developer I wanted to become. In 2017, I graduated with the degree Sarjana Komputer—carrying not just a certificate, but a growing sense of purpose and a deep excitement for what lay ahead.
+
+### 2017 - Today: From Developer to Builder of Digital Experiences
+After graduation, I began my professional journey as a Mobile Developer in several companies across Jakarta and Tangerang, working on meaningful projects across healthcare, finance, public services, and digital identity. I became fluent in Flutter, Android (Jetpack Compose), React Native, and embraced principles like Clean Architecture, UI/UX design, and secure development practices. From creating apps that support face recognition and digital signatures to building tools that connect patients with doctors, I've seen first-hand how powerful mobile technology can be in solving real-world problems.
+
+### Today & Beyond: The Road to a Bigger Dream
+Even after years in the industry, I still consider myself a student of the craft. I continue to build personal projects, explore new frameworks, design interfaces, and challenge myself to go further than yesterday. What drives me isn't just new tech—it's the desire to build things that matter, to craft software that feels good to use, and to solve real human problems through thoughtful design and robust code.
+
+---
+
+## Contact & Links
+
+### Direct Contact
+- **Email:** aldi.guizot@gmail.com
+- **WhatsApp:** +62 838 2301 1830
+
+### Social Media
+- **LinkedIn:** linkedin.com/in/rinaldiguizot
+- **Instagram:** instagram.com/guizot
+- **Twitter/X:** x.com/aldiguizot
+- **GitHub:** github.com/guizot
+
+### Design & Portfolio
+- **Dribbble:** dribbble.com/guizot (Login required)
+- **Behance:** behance.net/guizot
+- **Medium:** medium.com/@guizot
+
+### Products & Tools
+- **Linktree:** linktr.ee/guizot
+- **LynkID:** lynk.id/guizot
+- **Gumroad:** guizot.gumroad.com
+
+### Location
+- **Jakarta, Indonesia**
+- **Maps:** maps.app.goo.gl/GRwu9ivYhTqLuSgBA
+
+---
+
+**Generated from:** https://guizot.framer.ai/
+**Last Updated:** December 17, 2025
+**Complete CV Version:**
+
+## Available Download Formats
+ 
+### PDF Version
+- **Format:** PDF
+- **File Size:** 160 KB
+- **Latest Update:** August 2025
+- **Download Link:** https://drive.google.com/file/d/1y5kwK3C1jZ0oWupDbrfTUOagY9XFIDvu
+- **Description:** Professional PDF version of CV, ideal for printing and email submissions
+ 
+### PNG Version
+- **Format:** PNG (Image)
+- **File Size:** 551 KB
+- **Latest Update:** August 2025
+- **Download Link:** https://drive.google.com/file/d/1ndO0X9oUyqNopzRIKleuQnv5lySXwaQx
+- **Description:** High-resolution image format, great for social media and digital viewing
+ 
+### JPG Version
+- **Format:** JPG (Image)
+- **File Size:** 717 KB
+- **Latest Update:** August 2025
+- **Download Link:** https://drive.google.com/file/d/1ighIjHQWfWj6xmFS6Hq6ihODU2jsZxRr
+- **Description:** Compressed image format, optimized for web and quick sharing
+ 
+---
