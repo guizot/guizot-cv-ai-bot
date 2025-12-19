@@ -7,6 +7,23 @@ Software Engineer focused on building mobile applications for Native Android and
 
 ## Career
 
+### Android Developer
+**PT Sarimelati Kencana Tbk.**
+- **Duration:** August 2025 - Present
+- **Location:** Pancoran, South Jakarta
+
+As an Android Developer at PT Sarimelati Kencana Tbk., I developed the Pizza Hut Android end-user application supporting delivery, takeaway, and dine-in services, including loyalty points and payment integrations. I focused on building reliable, scalable features for a large-scale consumer application.
+
+**Key Responsibilities:**
+- Developed and maintained core features of the Pizza Hut Android application.
+- Performed bug fixing and performance improvements to ensure application stability.
+- Collaborated with cross-functional teams to deliver and enhance application features.
+- Implemented modern Android components and architecture for enterprise-scale development.
+
+**Tech Stack:** Android, Jetpack Library, Kotlin, Dependency Injection, MVVM, Hilt, Retrofit, Firebase, CI/CD
+
+---
+
 ### Mobile Software Developer
 **PT Autentika Digital Indonesia**
 - **Duration:** April 2023 - May 2025
