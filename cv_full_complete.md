@@ -117,6 +117,29 @@ At Santa Maria High School, I pursued the Science (IPA) track, where I developed
 
 ## Career Projects
 
+### Pizza Hut Indonesia
+**Delivery, Takeaway & Dine In App**
+- **Organization:** PT Sarimelati Kencana Tbk.
+
+Pizza Hut Indonesia is a large-scale Android consumer application designed to provide a seamless food ordering and dining experience. Built to support millions of users nationwide, the app enables customers to order Pizza Hut products for delivery, takeaway, and dine-in while enjoying rewards, promotions, and real-time order tracking.
+
+**My Contributions:**
+- Maintained and enhanced all core application features across delivery, takeaway, and dine-in flows.
+- Maintained and improved UI components to ensure consistent user experience.
+- Fixed bugs and addressed production issues to improve application stability and performance.
+
+**Key Features:**
+- Online ordering for Delivery, Takeaway, and Dine-In services.
+- Real-time Delivery tracking to monitor orders until arrival.
+- Loyalty program with SLICES rewards redeemable for Pizza, Pasta, and Snacks.
+- Scheduled Takeaway orders for quick pickup.
+- QR-based Dine-In ordering for table-side convenience.
+- Treasure Hut access for exclusive merchandise and promotional rewards.
+
+**Tech Stack:** Android, Kotlin, Android Jetpack, MVVM, Dependency Injection (Hilt), Retrofit, REST API, Firebase, Git
+
+---
+
 ### UnoDemo
 **AI-powered KYC & Identity Validation App**
 - **Organization:** PT Autentika Digital Indonesia
