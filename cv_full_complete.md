@@ -22,8 +22,6 @@ As an Android Developer at PT Sarimelati Kencana Tbk., I developed the Pizza Hut
 
 **Tech Stack:** Android, Jetpack Library, Kotlin, Dependency Injection, MVVM, Hilt, Retrofit, Firebase, CI/CD
 
----
-
 ### Mobile Software Developer
 **PT Autentika Digital Indonesia**
 - **Duration:** April 2023 - May 2025
@@ -38,8 +36,6 @@ As a Mobile Software Developer at PT. Autentika Digital Indonesia, I build secur
 - Built and maintained a web dashboard using ReactJS for Certificate Authority lifecycle management.
 
 **Tech Stack:** Flutter, Dart, Google ML Kit, TensorFlow Lite, ReactJS, REST API, GitLab, Figma, PKI
-
----
 
 ### Android Engineer
 **PT Medika Komunika Teknologi (KlikDokter)**
@@ -57,8 +53,6 @@ As an Android Mobile Engineer at KlikDokter, part of Kalbe Farma Group, I worked
 
 **Tech Stack:** Kotlin, Java, Android SDK, Jetpack (Navigation, LiveData, ViewModel), Hilt, Retrofit, Coroutines, Firebase, Jira, GitLab
 
----
-
 ### Android Developer
 **Elabram Systems**
 - **Duration:** March 2019 - February 2022
@@ -74,8 +68,6 @@ At Elabram Systems, I worked as an Android Developer responsible for building HR
 - Collaborated closely with backend developers to integrate RESTful APIs and optimize performance.
 
 **Tech Stack:** Kotlin, Java, MVP/MVVM, Retrofit, Firebase, Bitbucket, Android Studio, Jira, REST API
-
----
 
 ### Software Developer
 **PT Indodev Niaga Internet (DataOn)**
@@ -138,8 +130,6 @@ Pizza Hut Indonesia is a large-scale Android consumer application designed to pr
 
 **Tech Stack:** Android, Kotlin, Android Jetpack, MVVM, Dependency Injection (Hilt), Retrofit, REST API, Firebase, Git
 
----
-
 ### UnoDemo
 **AI-powered KYC & Identity Validation App**
 - **Organization:** PT Autentika Digital Indonesia
@@ -156,7 +146,6 @@ UnoDemo is a Flutter-based mobile demo app developed to showcase AI-powered iden
 
 **Tech Stack:** Flutter, TFLite, Dart, NFC SDK, Custom AI Models, REST API, VS Code, GitHub
 
----
 
 ### UnoDigSig
 **Secure Digital Signature Demo App**
@@ -173,7 +162,6 @@ UnoDigSig is a Flutter-based mobile demo app that showcases the implementation o
 
 **Tech Stack:** Flutter, Dart, PKI SDK, REST API, AES/RSA, Secure Storage, Git, Bitbucket
 
----
 
 ### mDL Reader
 **Mobile Driver's License (mDL) ISO Reader**
@@ -192,7 +180,6 @@ mDL Reader is a Flutter-based mobile application designed to read and parse ISO-
 
 **Tech Stack:** Flutter, Dart, WebSocket, CBOR, ISO 18013-5, Cryptography Libraries, Secure Key Store, REST API, VS Code, Git
 
----
 
 ### GreatDay HR
 **Employee HRIS & Attendance Platform**
@@ -209,7 +196,6 @@ GreatDay (formerly SunfishGo) is a cloud-based HRIS app used globally by enterpr
 
 **Tech Stack:** Ionic Framework, AngularJS, Node.js (Express), RESTful APIs, GitLab, SourceTree, VS Code
 
----
 
 ### Axdif
 **Task & Workforce Management App**
@@ -225,7 +211,6 @@ Axdif is an enterprise app that consolidates task boards, HRIS features, attenda
 
 **Tech Stack:** Java & Kotlin, MVP pattern, Retrofit for API, SourceTree + Bitbucket, Android Studio
 
----
 
 ### Xremo
 **Job Search App for Malaysia**
@@ -241,7 +226,6 @@ Xremo is a job portal tailored to the Malaysian market, offering job listings, c
 
 **Tech Stack:** Kotlin, Java, MVVM architecture, Retrofit, LiveData, ViewModel, Cloud backend integration, Bitbucket, Android Studio
 
----
 
 ### KlikDokter
 **Healthy Solutions App**
@@ -258,7 +242,6 @@ KlikDokter is Indonesia's go-to digital health platform, offering services like 
 
 **Tech Stack:** Android Studio, Kotlin, MVVM + Hilt + Jetpack, Coroutines, Retrofit, Mattermost, GitLab
 
----
 
 ### HalloBumil
 **Pregnancy & Parenting Companion App**
@@ -274,7 +257,6 @@ HalloBumil is Indonesia's first interactive maternal health app, guiding moms th
 
 **Tech Stack:** Kotlin, MVVM architecture, Jetpack libraries, Hilt, Retrofit, Android Studio
 
----
 
 ### Moshealth
 **Digital Pharmacy App**
@@ -290,7 +272,6 @@ MOSHealth is an end-to-end pharmacy app that enables users to order prescription
 
 **Tech Stack:** Kotlin, Retrofit, REST API, AndroidX, Firebase Storage, Kotlin Coroutines, Android Studio
 
----
 
 ### KlikMedis
 **Doctor/Clinic RME Solution**
@@ -561,11 +542,12 @@ Even after years in the industry, I still consider myself a student of the craft
 - **Jakarta, Indonesia**
 - **Maps:** maps.app.goo.gl/GRwu9ivYhTqLuSgBA
 
----
 
 **Generated from:** https://guizot.framer.ai/
 **Last Updated:** December 20, 2025
 **Complete CV Version:**
+
+---
 
 ## Available Download Formats
  
@@ -590,4 +572,4 @@ Even after years in the industry, I still consider myself a student of the craft
 - **Download Link:** https://drive.google.com/file/d/1ighIjHQWfWj6xmFS6Hq6ihODU2jsZxRr
 - **Description:** Compressed image format, optimized for web and quick sharing
  
----
+
