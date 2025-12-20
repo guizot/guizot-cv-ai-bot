@@ -295,7 +295,7 @@ KlikMedis is a professional-grade Electronic Medical Records (EMR/RME) platform 
 **Guizot Labs - Application Store**
 **Framer • UI Simplicity • Dark/Light Theme**
 
-GLabs is a clean, beautifully designed app showcase platform built by Guizot Labs using Framer. It presents a curated collection of simple, powerful mobile and web applications with elegant interfaces, intuitive navigation, and purpose-driven functionality.
+GLabs is a clean, beautifully designed app showcase platform built by Guizot Labs using Framer. It presents a curated collection of simple, powerful mobile applications with elegant interfaces, intuitive navigation, and purpose-driven functionality.
 
 **Key Features:**
 - Explore a lineup of essential productivity and lifestyle apps developed under Guizot Labs
@@ -570,4 +570,5 @@ Even after years in the industry, I still consider myself a student of the craft
 ---
 
 **Generated from:** https://guizot.framer.ai/
+
 **Last Updated:** December 20, 2025
