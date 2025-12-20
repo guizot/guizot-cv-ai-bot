@@ -329,46 +329,93 @@ GLabs is a clean, beautifully designed app showcase platform built by Guizot Lab
 - Minimalist UI with calm colors, balanced spacing, and clear visual hierarchy
 
 
-### Flyt - Trip Planner App
-**Flutter • Hive (local DB) • Clean Architecture • UI Simplicity • Dark/Light Theme**
-
-An all-in-one trip planning solution to simplify itinerary organization.
-
-**Key Features:**
-- Add and manage trips, itineraries, and bookings
-- Save travel documents, locations, and map paths
-- Add travelers and packing/phrase lists for group travel
-
-### Monty - Budget Planner App
-**Flutter • Hive (local DB) • Clean Architecture • UI Simplicity • Dark/Light Theme**
-
-A simple, effective budgeting app tailored to track grouped monthly income and expenses.
-
-**Key Features:**
-- Create monthly groups (e.g., Household, Freelance, Business)
-- Add income and multiple budgeted expense categories
-- Track personal or shared finances offline
-
 ### We Ready - Event Planner App
 **Flutter • Hive (local DB) • Clean Architecture • UI Simplicity • Dark/Light Theme**
 
-A lightweight, offline-first event management application for individuals or event organizers.
+We Ready is your all-in-one wedding planning companion — designed for couples and planners to manage every detail effortlessly. From guest lists to budgets, tasks, and vendors, everything stays organized in one seamless experience.
 
 **Key Features:**
-- Plan events with structured details
-- Manage vendors and payment tracking
-- Monitor invitations
-- Set detailed event rundown/timeline
+- **Personalized Planning Dashboard:** Track upcoming milestones, to-dos, and wedding progress at a glance.
+- **Budget Management Tools:** Compare planned vs. actual expenses and keep spending on track.
+- **Guest List Organization:** Manage RSVPs, seating, and dietary preferences with ease.
+- **Vendor Coordination:** Store contracts, payment details, and contacts for venues and suppliers.
+- **Offline-Ready Data Storage:** Access your plans anytime, anywhere, powered by Hive local storage.
+
+We Ready brings structure, clarity, and collaboration to your wedding journey — a modern planning tool built for simplicity and peace of mind.
 
 ### Respy - Recipe Saver App
 **Flutter • Hive (local DB) • Clean Architecture • UI Simplicity • Dark/Light Theme**
 
-Designed to organize and save favorite recipes with ease.
+Respy helps you build your own personal recipe collection — simple, organized, and always accessible. Save, search, and cook from your favorite meals even when you’re offline.
 
 **Key Features:**
-- Add, update, and delete recipes with ingredients and instructions
-- Import recipes directly from Cookpad URLs
-- Offline-accessible and elegantly designed for daily use
+- **Recipe Library:** Browse your entire collection with powerful search and category filters.
+- **Flexible Capture Flows:** Add recipes manually or import directly from Cookpad links for quick setup.
+- **Structured Cooking View:** Store ingredients, quantities, and step-by-step instructions with images and notes.
+- **Offline-First Storage:** Keep your recipes always available on your device through Hive-powered local storage.
+- **Customizable Theming:** Switch between light, dark, or system themes for a personalized cooking experience.
+
+Respy brings order and elegance to your recipe collection — built for home cooks who love simplicity and control.
+
+### Notes - Simple Notepad
+**Flutter • Hive (local DB) • Clean Architecture • UI Simplicity • Dark/Light Theme**
+
+Notes is an offline note-taking app built for organized thinkers. Create, organize, and manage your ideas from start to finish — no internet required.
+
+**Key Features:**
+- **Note Dashboard:** View, create, and manage all your notes effortlessly in one place.
+- **Folder Organization:** Create custom folders and categories to keep your thoughts structured with intuitive navigation.
+- **Rich Text Editor:** Format notes with bold text, italics, lists, and styling options for clear, professional documentation.
+- **Image Attachments:** Add photos and images directly to your notes for better context and complete information capture.
+- **Search & Browse:** Quickly search through your entire note collection and access detailed note summaries instantly.
+- **Local Storage:** All notes are securely stored on your device, ensuring fast access and reliable offline performance.
+
+Notes is designed for students, professionals, and personal use — a simple, reliable offline note-taking tool built for productivity.
+
+### Corta - Tournament Bracket Maker
+**Flutter • Hive (local DB) • Clean Architecture • UI Simplicity • Dark/Light Theme**
+
+Corta is an offline tournament manager built for cornhole organizers. Create, schedule, and track local competitions from start to finish — no internet required.
+
+**Key Features:**
+- **Tournament Dashboard:** View and manage all your tournaments, create new events, or remove old ones effortlessly.
+- **Guided Tournament Creation:** Set up formats (single elimination or round robin), scoring rules, and participants with clear step-by-step forms.
+- **Automatic Schedule Generation:** Instantly build balanced match schedules with court assignments and rest periods.
+- **Match Management:** Record scores, mark winners, and keep brackets and standings updated in real time.
+- **Player & Team Insights:** Explore rosters, match history, statistics, and standings from detailed summary screens.
+- **Light & Dark Themes:** Choose your preferred look and keep it saved across sessions.
+
+Corta is designed for field-house, backyard, or community events — a reliable, offline tournament tool built for simplicity and control.
+
+### Monty - Budget Planner App
+**Flutter • Hive (local DB) • Clean Architecture • UI Simplicity • Dark/Light Theme**
+
+Monty helps you take full control of your household finances — from budgets and savings to debts and investments. Designed for simplicity and privacy, Monty works completely offline so your financial data always stays on your device.
+
+**Key Features:**
+- **Household Dashboard:** Manage multiple home profiles with automatic income, expense, and balance tracking.
+- **Category Tracking:** Log detailed expenses and budgets while seeing instant summaries and insights.
+- **Savings Planner:** Set goals, record contributions, and monitor your saving progress over time.
+- **Debt & Loan Management:** Track liabilities, repayments, and payoff progress in one clear view.
+- **Investment Journal:** Keep a record of your portfolios and transactions to analyze growth and performance.
+- **Personalization:** Switch between light and dark themes for a tailored experience.
+
+Monty combines powerful offline storage with a clean, minimal design — built to make personal finance simple, private, and reliable.
+
+### Flyt - Trip Planner App
+**Flutter • Hive (local DB) • Clean Architecture • UI Simplicity • Dark/Light Theme**
+
+Flyt Trip Planner helps you organize, collaborate, and enjoy stress-free travel. Build detailed itineraries, share plans with companions, and access your trip anytime — even offline.
+
+**Key Features:**
+- **Itinerary Builder:** Day-by-day scheduling for your trips.
+- **Shared Planning:** Collaborative tools for friends or family.
+- **Offline Access:** Keep essential details handy anywhere.
+- **Smart Reminders:** Automated notifications for deadlines and activities.
+- **Minimalist Interface:** Clean design for simple, intuitive navigation.
+
+Flyt keeps your travel plans organized, accessible, and beautifully straightforward — so you can focus on the journey ahead.
+
 
 ### Guizot Portfolio Website
 **Guizot Resume & Portfolio Website**
