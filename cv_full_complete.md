@@ -542,11 +542,6 @@ Even after years in the industry, I still consider myself a student of the craft
 - **Jakarta, Indonesia**
 - **Maps:** maps.app.goo.gl/GRwu9ivYhTqLuSgBA
 
-
-**Generated from:** https://guizot.framer.ai/
-**Last Updated:** December 20, 2025
-**Complete CV Version:**
-
 ---
 
 ## Available Download Formats
@@ -572,4 +567,7 @@ Even after years in the industry, I still consider myself a student of the craft
 - **Download Link:** https://drive.google.com/file/d/1ighIjHQWfWj6xmFS6Hq6ihODU2jsZxRr
 - **Description:** Compressed image format, optimized for web and quick sharing
  
+---
 
+**Generated from:** https://guizot.framer.ai/
+**Last Updated:** December 20, 2025
