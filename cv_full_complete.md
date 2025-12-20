@@ -310,6 +310,25 @@ KlikMedis is a professional-grade Electronic Medical Records (EMR/RME) platform 
 
 ## Personal Projects
 
+### Glabs (Guizot Labs)
+**Guizot Labs - Application Store**
+**Framer • UI Simplicity • Dark/Light Theme**
+
+GLabs is a clean, beautifully designed app showcase platform built by Guizot Labs using Framer. It presents a curated collection of simple, powerful mobile and web applications with elegant interfaces, intuitive navigation, and purpose-driven functionality.
+
+**Key Features:**
+- Explore a lineup of essential productivity and lifestyle apps developed under Guizot Labs
+- Clean, distraction-free design that highlights the purpose and value of each app
+- Fast, responsive performance across devices with smooth interactions
+- Offline-ready apps that respect user privacy with secure local data handling
+- Easy access to individual apps such as event planners, recipe savers, budget tools, and trip planners
+- Built with Framer for visually stunning layouts and effortless browsing
+
+**Tech & Tools:**
+- Built using Framer for smooth, modern site design and interactions
+- Minimalist UI with calm colors, balanced spacing, and clear visual hierarchy
+
+
 ### Flyt - Trip Planner App
 **Flutter • Hive (local DB) • Clean Architecture • UI Simplicity • Dark/Light Theme**
 
@@ -351,14 +370,35 @@ Designed to organize and save favorite recipes with ease.
 - Import recipes directly from Cookpad URLs
 - Offline-accessible and elegantly designed for daily use
 
+### Guizot Portfolio Website
+**Guizot Resume & Portfolio Website**
+**Framer • UI Simplicity • Dark/Light Theme**
+
+A live interactive website built using Framer to professionally showcase my projects, skills, and timeline. Clean, responsive, and fast — designed to reflect modern UI trends and performance.
+
 ### Clean Architecture Projects
-**Multi-Framework Implementation**
 
 A series of starter and feature-rich projects using different frameworks and clean architecture implementations.
 
-### Framer Portfolio Website & GitHub Projects
+**Frameworks Used:**
+- **Flutter:** Feature-rich mobile modules
+- **Android Jetpack Compose:** Kotlin-first clean architecture & reactive UI
+- **React Native:** Modular component design and architecture patterns
 
-A live interactive website built using Framer, plus learning projects on GitHub including rupiah-calculator, golang-gin APIs, and full-stack applications.
+Each project demonstrates modern libraries, best practices, and clean code structure.
+
+
+### Other Projects on GitHub
+
+Since 2017, I’ve experimented with various stacks for learning purposes. A few notable repositories:
+
+- rupiah-calculator – Simple validation tool for currency inputs (Tokopedia test)
+- golang-gin-mysql & golang-gin-mongo – RESTful APIs with Gin
+- ionic-calculator – Mobile calculator with Ionic
+- meanauthapp, devconnector, graphql-playlist – Full-stack JS applications using MongoDB, Express, Angular/React, and GraphQL
+
+📁 View them at: github.com/guizot
+
 
 ---
 
@@ -477,7 +517,7 @@ Even after years in the industry, I still consider myself a student of the craft
 ---
 
 **Generated from:** https://guizot.framer.ai/
-**Last Updated:** December 17, 2025
+**Last Updated:** December 20, 2025
 **Complete CV Version:**
 
 ## Available Download Formats
