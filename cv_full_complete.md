@@ -112,6 +112,8 @@ At Santa Maria High School, I pursued the Science (IPA) track, where I developed
 ### Pizza Hut Indonesia
 **Delivery, Takeaway & Dine In App**
 - **Organization:** PT Sarimelati Kencana Tbk.
+- **Link:** [Play Store](https://play.google.com/store/apps/details?id=com.pizzahut.phd)
+
 
 Pizza Hut Indonesia is a large-scale Android consumer application designed to provide a seamless food ordering and dining experience. Built to support millions of users nationwide, the app enables customers to order Pizza Hut products for delivery, takeaway, and dine-in while enjoying rewards, promotions, and real-time order tracking.
 
@@ -184,6 +186,8 @@ mDL Reader is a Flutter-based mobile application designed to read and parse ISO-
 ### GreatDay HR
 **Employee HRIS & Attendance Platform**
 - **Organization:** PT Indodev Niaga Internet
+- **Link:** [Play Store](https://play.google.com/store/apps/details?id=com.greatday.app)
+
 
 GreatDay (formerly SunfishGo) is a cloud-based HRIS app used globally by enterprises. It seamlessly handles leave, attendance, payroll, shift schedules, claims, and employee attendance for both mobile and web.
 
@@ -200,6 +204,8 @@ GreatDay (formerly SunfishGo) is a cloud-based HRIS app used globally by enterpr
 ### Axdif
 **Task & Workforce Management App**
 - **Organization:** Elabram Systems
+- **Link:** [Play Store](https://play.google.com/store/apps/details?id=com.elabram.lm.wmsmobile)
+
 
 Axdif is an enterprise app that consolidates task boards, HRIS features, attendance tracking, business travel, and more into a unified mobile solution.
 
@@ -230,6 +236,8 @@ Xremo is a job portal tailored to the Malaysian market, offering job listings, c
 ### KlikDokter
 **Healthy Solutions App**
 - **Organization:** PT Medika Komunika Teknologi (Kalbe Group)
+- **Link:** [Play Store](https://play.google.com/store/apps/details?id=id.codigo.klikdokter)
+
 
 KlikDokter is Indonesia's go-to digital health platform, offering services like doctor consultations, appointments, health articles, and an in-app e-pharmacy.
 
@@ -246,6 +254,8 @@ KlikDokter is Indonesia's go-to digital health platform, offering services like 
 ### HalloBumil
 **Pregnancy & Parenting Companion App**
 - **Organization:** PT Medika Komunika Teknologi (Kalbe Group)
+- **Link:** [Play Store](https://play.google.com/store/apps/details?id=crm.iluvubaby)
+
 
 HalloBumil is Indonesia's first interactive maternal health app, guiding moms through pre-pregnancy planning, pregnancy tracking, and postnatal development.
 
@@ -276,6 +286,8 @@ MOSHealth is an end-to-end pharmacy app that enables users to order prescription
 ### KlikMedis
 **Doctor/Clinic RME Solution**
 - **Organization:** PT Medika Komunika Teknologi (Kalbe Group)
+- **Link:** [Play Store](https://play.google.com/store/apps/details?id=id.codigo.dokterapp)
+
 
 KlikMedis is a professional-grade Electronic Medical Records (EMR/RME) platform used by clinics and doctors in Indonesia. It integrates with government health systems (SATU SEHAT, BPJS) and supports appointment scheduling.
 
@@ -295,6 +307,9 @@ KlikMedis is a professional-grade Electronic Medical Records (EMR/RME) platform 
 **Guizot Labs - Application Store**
 **Framer • UI Simplicity • Dark/Light Theme**
 
+- **Link:** [Live Site](https://glabs.framer.ai/)
+
+
 GLabs is a clean, beautifully designed app showcase platform built by Guizot Labs using Framer. It presents a curated collection of simple, powerful mobile applications with elegant interfaces, intuitive navigation, and purpose-driven functionality.
 
 **Key Features:**
@@ -313,6 +328,9 @@ GLabs is a clean, beautifully designed app showcase platform built by Guizot Lab
 ### We Ready - Event Planner App
 **Flutter • Hive (local DB) • Clean Architecture • UI Simplicity • Dark/Light Theme**
 
+- **Link:** [Live Site](https://glabs.framer.ai/apps/we-ready)
+
+
 We Ready is your all-in-one wedding planning companion — designed for couples and planners to manage every detail effortlessly. From guest lists to budgets, tasks, and vendors, everything stays organized in one seamless experience.
 
 **Key Features:**
@@ -327,6 +345,9 @@ We Ready brings structure, clarity, and collaboration to your wedding journey �
 ### Respy - Recipe Saver App
 **Flutter • Hive (local DB) • Clean Architecture • UI Simplicity • Dark/Light Theme**
 
+- **Link:** [Live Site](https://glabs.framer.ai/apps/respy)
+
+
 Respy helps you build your own personal recipe collection — simple, organized, and always accessible. Save, search, and cook from your favorite meals even when you’re offline.
 
 **Key Features:**
@@ -340,6 +361,9 @@ Respy brings order and elegance to your recipe collection — built for home coo
 
 ### Notes - Simple Notepad
 **Flutter • Hive (local DB) • Clean Architecture • UI Simplicity • Dark/Light Theme**
+
+- **Link:** [Live Site](https://glabs.framer.ai/apps/notes)
+
 
 Notes is an offline note-taking app built for organized thinkers. Create, organize, and manage your ideas from start to finish — no internet required.
 
@@ -356,6 +380,9 @@ Notes is designed for students, professionals, and personal use — a simple, re
 ### Corta - Tournament Bracket Maker
 **Flutter • Hive (local DB) • Clean Architecture • UI Simplicity • Dark/Light Theme**
 
+- **Link:** [Live Site](https://glabs.framer.ai/apps/corta)
+
+
 Corta is an offline tournament manager built for cornhole organizers. Create, schedule, and track local competitions from start to finish — no internet required.
 
 **Key Features:**
@@ -371,6 +398,9 @@ Corta is designed for field-house, backyard, or community events — a reliable,
 ### Monty - Budget Planner App
 **Flutter • Hive (local DB) • Clean Architecture • UI Simplicity • Dark/Light Theme**
 
+- **Link:** [Live Site](https://glabs.framer.ai/apps/monty)
+
+
 Monty helps you take full control of your household finances — from budgets and savings to debts and investments. Designed for simplicity and privacy, Monty works completely offline so your financial data always stays on your device.
 
 **Key Features:**
@@ -385,6 +415,9 @@ Monty combines powerful offline storage with a clean, minimal design — built t
 
 ### Flyt - Trip Planner App
 **Flutter • Hive (local DB) • Clean Architecture • UI Simplicity • Dark/Light Theme**
+
+- **Link:** [Live Site](https://glabs.framer.ai/apps/flyt)
+
 
 Flyt Trip Planner helps you organize, collaborate, and enjoy stress-free travel. Build detailed itineraries, share plans with companions, and access your trip anytime — even offline.
 
@@ -402,9 +435,15 @@ Flyt keeps your travel plans organized, accessible, and beautifully straightforw
 **Guizot Resume & Portfolio Website**
 **Framer • UI Simplicity • Dark/Light Theme**
 
+- **Link:** [Live Site](https://guizot.framer.ai/)
+
+
 A live interactive website built using Framer to professionally showcase my projects, skills, and timeline. Clean, responsive, and fast — designed to reflect modern UI trends and performance.
 
 ### Clean Architecture Projects
+
+- **Link:** [GitHub](https://github.com/guizot)
+
 
 A series of starter and feature-rich projects using different frameworks and clean architecture implementations.
 
@@ -418,14 +457,14 @@ Each project demonstrates modern libraries, best practices, and clean code struc
 
 ### Other Projects on GitHub
 
+- **Link:** [GitHub](https://github.com/guizot)
+
 Since 2017, I’ve experimented with various stacks for learning purposes. A few notable repositories:
 
 - rupiah-calculator – Simple validation tool for currency inputs (Tokopedia test)
 - golang-gin-mysql & golang-gin-mongo – RESTful APIs with Gin
 - ionic-calculator – Mobile calculator with Ionic
 - meanauthapp, devconnector, graphql-playlist – Full-stack JS applications using MongoDB, Express, Angular/React, and GraphQL
-
-📁 View them at: github.com/guizot
 
 
 ---
@@ -435,9 +474,9 @@ Since 2017, I’ve experimented with various stacks for learning purposes. A few
 ### Mobile UI/UX Design Projects
 **Figma - Mobile-first Design - Interactive Prototypes**
 
-Showcasing modern mobile interface designs using Figma, created to explore user-centric layouts, usability principles, and visual aesthetics.
+- **Link:** [Dribbble](https://dribbble.com/guizot)
 
-**View portfolio on Dribbble:** https://dribbble.com/guizot (Login required)
+Showcasing modern mobile interface designs using Figma, created to explore user-centric layouts, usability principles, and visual aesthetics.
 
 **Focus Areas:**
 - Minimalist and accessible UI
@@ -447,9 +486,9 @@ Showcasing modern mobile interface designs using Figma, created to explore user-
 ### Illustration & Visual Design Portfolio
 **Photoshop - Illustrator - Graphic Illustration**
 
-Created a diverse collection of digital illustrations, icons, and concept visuals.
+- **Link:** [Behance](https://www.behance.net/guizot)
 
-**View portfolio on Behance:** https://www.behance.net/guizot
+Created a diverse collection of digital illustrations, icons, and concept visuals.
 
 **Focus Areas:**
 - Brand illustrations and assets
