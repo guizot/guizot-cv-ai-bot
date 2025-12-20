@@ -587,27 +587,26 @@ Even after years in the industry, I still consider myself a student of the craft
  
 ### PDF Version
 - **Format:** PDF
-- **File Size:** 160 KB
-- **Latest Update:** August 2025
-- **Download Link:** https://drive.google.com/file/d/1y5kwK3C1jZ0oWupDbrfTUOagY9XFIDvu
+- **File Size:** 865 KB
+- **Latest Update:** December 2025
+- **Download Link:** https://drive.google.com/file/d/110iSaCjFXvvrvq7boyBW9T2NmKJn03Ht
 - **Description:** Professional PDF version of CV, ideal for printing and email submissions
  
 ### PNG Version
 - **Format:** PNG (Image)
-- **File Size:** 551 KB
-- **Latest Update:** August 2025
-- **Download Link:** https://drive.google.com/file/d/1ndO0X9oUyqNopzRIKleuQnv5lySXwaQx
+- **File Size:** 297 KB
+- **Latest Update:** December 2025
+- **Download Link:** https://drive.google.com/file/d/1L87Tdn3eLmctg-0f5KeSnrYNNjetUoGy
 - **Description:** High-resolution image format, great for social media and digital viewing
  
 ### JPG Version
 - **Format:** JPG (Image)
-- **File Size:** 717 KB
-- **Latest Update:** August 2025
-- **Download Link:** https://drive.google.com/file/d/1ighIjHQWfWj6xmFS6Hq6ihODU2jsZxRr
+- **File Size:** 887 KB
+- **Latest Update:** December 2025
+- **Download Link:** https://drive.google.com/file/d/1Bw1f2iLDHWgu3XLkdR4UOPxIClH6lz5e
 - **Description:** Compressed image format, optimized for web and quick sharing
  
 ---
 
 **Generated from:** https://guizot.framer.ai/
-
 **Last Updated:** December 20, 2025
