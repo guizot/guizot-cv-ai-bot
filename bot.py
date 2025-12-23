@@ -12,7 +12,7 @@ from telegram.ext import (
 )
 
 # =========================
-# Load environment
+# Load environment variables
 # =========================
 load_dotenv()
 
