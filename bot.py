@@ -132,8 +132,19 @@ def main():
     app.add_handler(CommandHandler("start", start))
     app.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, handle_message))
 
-    print("🤖 CV bot is running...")
-    app.run_polling()
+    render_external_url = os.getenv("RENDER_EXTERNAL_URL")
+
+    if render_external_url:
+        port = int(os.getenv("PORT", "10000"))
+        print(f"🤖 CV bot is starting webhook on port {port}...")
+        app.run_webhook(
+            listen="0.0.0.0",
+            port=port,
+            webhook_url=render_external_url
+        )
+    else:
+        print("🤖 CV bot is running in polling mode...")
+        app.run_polling()
 
 if __name__ == "__main__":
     import asyncio
