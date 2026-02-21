@@ -36,7 +36,7 @@ llm_client = OpenAI(
     base_url="https://openrouter.ai/api/v1",
 )
 
-MODEL = "mistralai/devstral-2512:free"
+MODEL = "arcee-ai/trinity-large-preview:free"
 # Alternative:
 # MODEL = "mistralai/mistral-7b-instruct"
 # MODEL = "meta-llama/llama-3-8b-instruct"
