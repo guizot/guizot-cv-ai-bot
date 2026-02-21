@@ -1,5 +1,6 @@
 import os
 import re
+import asyncio
 from dotenv import load_dotenv
 from openai import OpenAI
 from telegram import Update
@@ -127,6 +128,14 @@ def normalize_telegram_text(text: str) -> str:
 # Run bot
 # =========================
 def main():
+    # Fix for "RuntimeError: There is no current event loop in thread 'MainThread'"
+    # occurring on Render and cloud platforms with Python 3.12+
+    try:
+        asyncio.get_event_loop()
+    except RuntimeError:
+        loop = asyncio.new_event_loop()
+        asyncio.set_event_loop(loop)
+
     app = ApplicationBuilder().token(TELEGRAM_BOT_TOKEN).build()
 
     app.add_handler(CommandHandler("start", start))
