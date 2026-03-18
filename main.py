@@ -36,7 +36,7 @@ llm_client = OpenAI(
     base_url="https://openrouter.ai/api/v1",
 )
 
-MODEL = "arcee-ai/trinity-large-preview:free"
+OPENAI_MODEL = os.getenv("OPENAI_MODEL", "stepfun/step-3.5-flash:free")
 # Alternative:
 # MODEL = "mistralai/mistral-7b-instruct"
 # MODEL = "meta-llama/llama-3-8b-instruct"
@@ -79,7 +79,7 @@ QUESTION:
 """
 
     response = llm_client.chat.completions.create(
-        model=MODEL,
+        model=OPENAI_MODEL,
         messages=[
             {"role": "system", "content": SYSTEM_PROMPT},
             {"role": "user", "content": prompt},
