@@ -122,6 +122,17 @@ def normalize_telegram_text(text: str) -> str:
 
     return text.strip()
 
+async def error_handler(update: object, context: ContextTypes.DEFAULT_TYPE):
+    """Log the error and notify the user."""
+    print(f"Error occurred: {context.error}")
+    
+    if isinstance(update, Update) and update.effective_message:
+        error_text = f"⚠️ Sorry, an error occurred while processing your request.\n\nError: {context.error}"
+        try:
+            await update.effective_message.reply_text(error_text)
+        except Exception as e:
+            print(f"Failed to send error notification to user: {e}")
+
 
 # =========================
 # Run bot
@@ -131,6 +142,7 @@ def main():
 
     app.add_handler(CommandHandler("start", start))
     app.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, handle_message))
+    app.add_error_handler(error_handler)
 
     render_external_url = os.getenv("RENDER_EXTERNAL_URL")
 
